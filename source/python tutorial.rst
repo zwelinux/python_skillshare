@@ -58,3 +58,11 @@ Content
    <iframe width="100%" height="315" src="https://www.youtube.com/embed/lfV5wa7Yitw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -------------
+
+6. Data Structures Video Tutorial
+----------------------------------
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/lC8QjKZl9n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------
