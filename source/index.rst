@@ -67,3 +67,18 @@ Power Up Skills
    Security
    Own Project Development
    Rewarding
+
+--------------------------
+
+.. Hello World
+.. -------------
+.. .. raw:: html
+
+..    <script src="https://utteranc.es/client.js"
+..         repo="https://github.com/zwelinux/python_skillshare"
+..         issue-term="title"
+..         label="comment"
+..         theme="github-light"
+..         crossorigin="anonymous"
+..         async>
+..    </script>

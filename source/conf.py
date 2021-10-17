@@ -53,8 +53,20 @@ html_static_path = ['_static']
 
 extensions = [
     "sphinx.ext.duration",
-    "sphinx_rtd_dark_mode"
+    "sphinx_rtd_dark_mode",
+    "sphinx_comments"
 ]
+
+comments_config = {
+   "hypothesis": True
+}
+
+# comments_config = {
+#    "utterances": {
+#       "repo": "github-org/github-repo",
+#       "optional": "config",
+#    }
+# }
 
 # user starts in light mode
 default_dark_mode = False
