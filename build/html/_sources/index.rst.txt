@@ -1,7 +1,11 @@
 Python Course Outline
 =====================
 
-**Mingalarbar!! Python Programming Skill Sharing Course ဖြစ်ပါတယ်။ Turorial များကို တစ်စုတစ်စည်းထဲ အဆင်ပြေပြေ ကြည့်နိုင်အောင်လုပ်ပေးထားပါတယ်။** 
+**Mingalarbar!!**  
+
+**Python Programming Skill Sharing Course ဖြစ်ပါတယ်။**
+
+**Turorial များကို တစ်စုတစ်စည်းထဲ အဆင်ပြေပြေ ကြည့်နိုင်အောင်လုပ်ပေးထားပါတယ်။** 
 
 **Author : Zwe Linn Htet**
 --------------------------

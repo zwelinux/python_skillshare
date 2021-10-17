@@ -4,7 +4,8 @@ Command Line
 Content
 -------
 1. Command Line Interface
-2. Files and Folders
+
+**ဒီ video လေးက computer basic အခြေခံမရှိသူများအတွက်ရော၊ programming လုပ်မယ့်လူများအတွက်ပါ အသုံးဝင်စေမယ့် video လေးဖြစ်ပါတယ်။**
 
 -------------
 

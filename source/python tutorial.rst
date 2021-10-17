@@ -8,6 +8,9 @@ Content
 3. Builtin Functions
 4. Condition
 5. Loop
+6. Data Structures
+7. Function
+8. Class
 
 -------------
 
@@ -64,5 +67,21 @@ Content
 .. raw:: html
 
    <iframe width="100%" height="315" src="https://www.youtube.com/embed/lC8QjKZl9n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------
+
+7. Function Video Tutorial
+------------------------------------------
+.. raw:: html
+
+   <iframe width="100%" height="315" src="https://www.youtube.com/embed/oIsnNvS4NmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------
+
+8. Class Video Tutorial
+----------------------------------
+.. raw:: html
+
+   <iframe width="100%" height="315" src="https://www.youtube.com/embed/7rHQ3mYLbAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -------------
